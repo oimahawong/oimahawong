@@ -1,8 +1,8 @@
-                          - 👋 Hi, I’m Oi Mahawong 
-                          - 👀 I’m interested in Api Development and anything Software Development.
-                          - 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 
-                          - 💞️ I’m looking to collaborate on 
-                          - 📫 How to reach me at oimahawong@gmail.com
+- 👋 Hi, I’m Oi Mahawong 
+- 👀 I’m interested in Api Development and anything Software Development.
+- 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me at oimahawong@gmail.com
 
                          
 

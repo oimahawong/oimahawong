@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me at oimahawong@gmail.com
-  
+
+                                                                      
 <img src="https://github.com/oimahawong/oimahawong/assets/124403539/aa96f1b5-8566-40a9-a4cb-13bc322c3bdc" width="250" height="250"/>
 
 

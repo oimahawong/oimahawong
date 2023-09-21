@@ -11,7 +11,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oimahawong&layout=donut)](https://github.com/oimahawong/github-readme-stats)
-![Oi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oimahawong&show_icons=true&theme=radical)
+![Oi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oimahawong&show_icons=true&theme=tokyonight)
 
                          
 

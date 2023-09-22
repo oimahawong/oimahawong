@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Oi Mahawong </h2>
+<h1 style="color:pink">👋 Hi, I’m Oi Mahawong </h2>
 
 - 👀 I’m interested in API Development and anything Software Development related. 
 - 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 

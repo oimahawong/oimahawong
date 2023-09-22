@@ -1,10 +1,9 @@
-<h1 style="color:pink">👋 Hi, I’m Oi Mahawong </h2>
+<h1 style="color:pink">👋 Hi, I’m Oi Mahawong </h1>
 
 - 👀 I’m interested in API Development and anything Software Development related. 
 - 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 
-- 💞️ I’m looking to collaborate on 
+- ❤️ I’m looking to collaborate on 
 - 📫 How to reach me at oimahawong@gmail.com
-   
  - <a href="https://www.linkedin.com/in/oi-mahawong-735469123" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">  LinkedIn
   </a> &nbsp; 

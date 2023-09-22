@@ -3,7 +3,7 @@
 - 👀 I’m interested in API Development and anything Software Development related. 
 - 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 
 - ❤️ I’m looking to collaborate on
-- 💬 Ask me about iOS Development, Web Development, UI/UX, Data Visualization, Python, C++, Swift
+- 💬 Ask me about <b>iOS Development, Web Development, UI/UX, Data Visualization, Python, C++, Swift</b>
 - 📋 My Resume <a href="url">Download</a>
 - 📫 How to reach me at oimahawong@gmail.com
 - 📈 Fun fact about me: I like reading stock chart by using TA.

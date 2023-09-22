@@ -8,10 +8,8 @@
 <img src="https://github.com/oimahawong/oimahawong/assets/124403539/aa96f1b5-8566-40a9-a4cb-13bc322c3bdc" width="250" height="250"/>
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oimahawong&layout=donut)](https://github.com/oimahawong/github-readme-stats)
 ![Oi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oimahawong&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oimahawong&layout=donut)](https://github.com/oimahawong/github-readme-stats)
 
                          
 

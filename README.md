@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Oi Mahawong </h2>
 
-- 👀 I’m interested in API Development and anything Software Development.
+- 👀 I’m interested in API Development and anything Software Development related. 
 - 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me at oimahawong@gmail.com

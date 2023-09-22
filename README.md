@@ -1,6 +1,6 @@
 <h1 style="color:pink">👋 Hi, I’m Oi Mahawong </h1>
 
-- 👀 I’m interested in API Development and anything Software Development related. 
+- 👀 I’m interested in API Development, Data Analysis and anything Software Development related. 
 - 🌱 I’m currently learning iOS App Development and Artificial Intelligence. 
 - ❤️ I’m looking to collaborate on coding project.
 - 💬 Ask me about <b>iOS Development, Web Development, UI/UX, Data Visualization, Python, C++, Swift</b>

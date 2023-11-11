@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning <b>iOS App Development and Artificial Intelligence.</b> 
 - ❤️ I’m looking to collaborate on coding project.
 - 💬 Ask me about <b>iOS Development, Web Development, UI/UX, Data Visualization, Python, C++, Swift</b>
-- 📋 My Resume <a href="url">Download</a>
+- 📋 My Resume <a href="https://github.com/oimahawong/resume/blob/main/SUPHAPON%20OI%20MAHAWONG-2.pdf">Download</a>
 - 📫 How to reach me at oimahawong@gmail.com
 - 📈 Fun fact about me: <b>I like reading stock market chart by using TA.</b>
  - <a href="https://www.linkedin.com/in/oi-mahawong-735469123" rel="nofollow noreferrer">

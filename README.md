@@ -5,7 +5,7 @@
 - ❤️ I’m looking to collaborate on coding project.
 - 💬 Ask me about <b>iOS Development, Web Development, UI/UX, Data Visualization, Python, C++, Swift</b>
 - 📋 My Resume <a href="https://github.com/oimahawong/resume/blob/main/resumeOi_1.pdf">Download</a>
-- 📫 How to reach me at oimahawong@gmail.com
+- 📫 How to reach me at mahaw001@csusm.edu
 - 📈 Fun fact about me: <b>I like reading stock market chart by using TA.</b>
  - <a href="https://www.linkedin.com/in/oi-mahawong-735469123" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">  LinkedIn
